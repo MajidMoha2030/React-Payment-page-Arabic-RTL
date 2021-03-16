@@ -12,3 +12,6 @@
 # Screenshot For Tablet 
 # ![TabletPayment](https://user-images.githubusercontent.com/57654558/111284253-020fe080-8651-11eb-9e7e-33b21826cab9.PNG)
 
+# To download the zipfile from here: 
+
+https://filebin.net/5j7iea024yyv4mn7
